@@ -1,3 +1,5 @@
+CITS4700
+
 # Loan Approval Prediction
 
 A binary classification project that predicts whether a bank loan application will be
